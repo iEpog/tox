@@ -40,4 +40,4 @@ Makes the program's functions solely for LoL
 Please note that this program is still in an experimental
 phase, It may work well without issues or It may not work
 
-Made by Neku, Epog
+Made by [Neku](https://github.com/imNeku), [Epog](https://github.com/iEpog)
